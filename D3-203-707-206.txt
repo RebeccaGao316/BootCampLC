@@ -1,0 +1,16 @@
+次数记录
+203 AC
+707 WA-AC(ide debug
+206 WA-AC
+
+感想
+2O3 ez
+707 这道题我的问题出在三个地方，前两个自己debug的。1/2.size ++/-- 忘记了，并且位置不对。3.最后到ide里debug才看出来，在add at index的时候不应该像get 一样，如果index >=size就skip，index = size也是可以的。
+206反转列表忘记最后curr.next = null了 所以报错了一次循环
+
+视频解析
+203
+707
+206
+
+相关题目：无
