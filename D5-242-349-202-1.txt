@@ -1,0 +1,2 @@
+329 学到list.stream().mapToInt(i->i).toArray();这种写法～
+拓展也全部写完了喵
